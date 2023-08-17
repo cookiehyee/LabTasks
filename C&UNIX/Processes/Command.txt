@@ -1,0 +1,4 @@
+date
+ls -l
+sleep l
+cat BatchStarter.c
